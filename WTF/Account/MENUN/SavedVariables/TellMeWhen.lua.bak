@@ -1,0 +1,39 @@
+
+TellMeWhenDB = {
+	["profileKeys"] = {
+		["Kaidun - 冰霜之刺"] = "Kaidun - 冰霜之刺",
+	},
+	["global"] = {
+		["TextLayouts"] = {
+			["icon1"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["bar2"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+		},
+	},
+	["Version"] = 72603,
+	["profiles"] = {
+		["Kaidun - 冰霜之刺"] = {
+			["Version"] = 72603,
+			["Groups"] = {
+				{
+					["GUID"] = "TMW:group:1L14XDJh6Gh0",
+					["Point"] = {
+						["y"] = 109.499931335449,
+						["point"] = "BOTTOM",
+						["relativePoint"] = "BOTTOM",
+						["x"] = -157.499969482422,
+					},
+				}, -- [1]
+			},
+		},
+	},
+}

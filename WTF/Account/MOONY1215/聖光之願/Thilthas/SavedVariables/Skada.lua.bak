@@ -1,0 +1,115 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 0,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "PALADIN",
+				["damaged"] = {
+				},
+				["auras"] = {
+				},
+				["ccbreaks"] = 0,
+				["time"] = 4,
+				["interrupts"] = 0,
+				["damage"] = 0,
+				["damagespells"] = {
+				},
+				["healed"] = {
+				},
+				["deathlog"] = {
+					{
+						["ts"] = 1405268300.209,
+						["amount"] = -10,
+						["hp"] = 123,
+						["spellid"] = 88163,
+						["srcname"] = "鄙惡者頑童",
+					}, -- [1]
+					{
+						["ts"] = 1405268302.252,
+						["amount"] = -10,
+						["hp"] = 113,
+						["spellid"] = 88163,
+						["srcname"] = "鄙惡者頑童",
+					}, -- [2]
+					{
+						["ts"] = 1405268304.262,
+						["amount"] = -10,
+						["hp"] = 103,
+						["spellid"] = 88163,
+						["srcname"] = "鄙惡者頑童",
+					}, -- [3]
+					["pos"] = 4,
+				},
+				["id"] = "0x0200000004127F79",
+				["dispells"] = 0,
+				["damagetakenspells"] = {
+					["近戰攻擊"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 10,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "近戰攻擊",
+						["blocked"] = 0,
+						["totalhits"] = 3,
+						["resisted"] = 0,
+						["max"] = 10,
+						["damage"] = 30,
+					},
+				},
+				["power"] = {
+				},
+				["overhealing"] = 0,
+				["name"] = "Thilthas",
+				["healingspells"] = {
+				},
+				["shielding"] = 0,
+				["healing"] = 0,
+				["damagetaken"] = 30,
+				["maxhp"] = 123,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["鄙惡者頑童"] = {
+				["players"] = {
+					["Thilthas"] = {
+						["taken"] = 0,
+						["done"] = 30,
+						["class"] = "PALADIN",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 30,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["shielding"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["overhealing"] = 0,
+		["starttime"] = 1405268295,
+		["name"] = "總體的",
+		["damagetaken"] = 30,
+		["mobtaken"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1405268295,
+		["mobdone"] = 30,
+	},
+	["sets"] = {
+	},
+}

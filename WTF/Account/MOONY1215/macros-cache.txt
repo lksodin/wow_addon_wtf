@@ -1,0 +1,18 @@
+VER 3 0000000000000005 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 驅散魔法;  [@mouseover,exists,mod:ctrl] 驅散魔法; [@mouseover,exists,mod:shift] 驅散魔法
+END
+VER 3 0000000000000004 "f sodin" "Ability_Ambush"
+/follow lksodin
+END
+VER 3 0000000000000001 "FLY" "Ability_Hunter_EagleEye"
+#showtooltip
+/dismount
+/cast [flyable]  雪白獅鷲獸;  冰原長毛象
+END
+VER 3 0000000000000002 "follow" "Ability_Ambush"
+/follow
+END
+VER 3 0000000000000003 "lay" "Ability_Druid_EclipseOrange"
+/lay
+END

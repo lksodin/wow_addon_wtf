@@ -1,0 +1,15 @@
+Version: 1
+Frame: DBMMinimapButton
+FrameLevel: 3
+Anchor: TOPRIGHT
+X: -136
+Y: -115
+W: 32
+H: 32
+Frame: GladiusButtonFramearena1
+FrameLevel: 1
+Anchor: CENTER
+X: 179
+Y: -18
+W: 160
+H: 52

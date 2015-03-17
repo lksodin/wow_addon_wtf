@@ -1,0 +1,8 @@
+VER 3 0100000000000001 "mount" "INV_Misc_QuestionMark"
+/dismount
+/cast 召喚戰馬(召喚)
+END
+VER 3 0100000000000002 "mounta" "INV_Misc_QuestionMark"
+/dismount
+/cast [flyable] 召喚戰馬(召喚);召喚戰馬(召喚)
+END

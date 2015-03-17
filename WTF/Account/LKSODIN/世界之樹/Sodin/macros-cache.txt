@@ -1,0 +1,37 @@
+VER 3 0100000000000003 "mount" "INV_Misc_QuestionMark"
+/dismount
+/use [flyable] 黃褐色雙足飛龍;迅捷藍色迅猛龍
+END
+VER 3 0100000000000006 "mounta" "INV_Misc_QuestionMark"
+/dismount
+/use 迅捷藍色迅猛龍
+END
+VER 3 0100000000000001 "冰" "Ability_Creature_Cursed_02"
+/施放 獵人印記()
+/p 我冰這隻: [%t]
+END
+VER 3 0100000000000008 "加速" "INV_Misc_QuestionMark"
+#showtooltip
+/cast 狂暴(種族特長)
+/cast 急速射擊
+END
+VER 3 0100000000000005 "守護" "INV_Misc_QuestionMark"
+#showtooltip
+/castsequence 蝮蛇守護,獵豹守護
+END
+VER 3 0100000000000002 "拉怪" "INV_Misc_QuestionMark"
+#show 擾亂射擊
+/施放 擾亂射擊(等級 6)
+/cleartarget
+END
+VER 3 0100000000000007 "誤導" "INV_Misc_QuestionMark"
+#showtooltip 誤導
+/cast [help] 誤導;[target=targettarget,help] 誤導
+/ra 對 [%t] 施放誤導！
+/stopmacro [group]
+/p 對 [%t] 施放誤導！
+END
+VER 3 0100000000000004 "飾品" "INV_Misc_QuestionMark"
+#showtooltip
+/castsequence reset=90 刃拳飾物,遠古德萊尼戰爭護符
+END

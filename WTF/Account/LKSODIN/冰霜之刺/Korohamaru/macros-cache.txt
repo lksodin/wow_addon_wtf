@@ -1,0 +1,98 @@
+VER 3 0100000000000004 "/def" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 星界轉移
+/cast [modifier:alt] 土元素圖騰
+END
+VER 3 0100000000000001 "chain" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead] 治療鍊
+/cast [help] 治療鍊;[target=targettarget,help] 治療鍊
+/cast  治療鍊
+END
+VER 3 0100000000000002 "cls" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,help] 淨化靈魂
+/cast [target=mouseover,exists,harm] 淨魔術
+/cast [help] 淨化靈魂;[harm] 淨魔術
+END
+VER 3 0100000000000003 "dd_exp" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 嗜血術
+/cast [modifier:alt] 火元素圖騰
+END
+VER 3 010000000000000E "dd_exp" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 薩滿之怒
+/cast 卓越術
+/cast 精通元素
+END
+VER 3 0100000000000009 "earth_shield" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead] 大地之盾
+/cast [help] 大地之盾;[target=targettarget,help] 大地之盾
+/cast 大地之盾
+END
+VER 3 010000000000000C "explode" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 戰慄圖騰
+/cast [modifier:alt] 雷霆風暴
+END
+VER 3 010000000000000A "fh" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead] 洶湧治療
+/cast [help] 洶湧治療;[target=targettarget,help] 洶湧治療
+/cast 洶湧治療
+END
+VER 3 010000000000000F "firetotem" "INV_MISC_QUESTIONMARK"
+#showtooltip 灼熱圖騰(火焰圖騰)
+/cast 灼熱圖騰(火焰圖騰)
+/cast 液態岩漿
+END
+VER 3 0100000000000005 "heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead] 治療波
+/cast [help] 治療波;[target=targettarget,help] 治療波
+/cast 治療波
+END
+VER 3 010000000000000B "hot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead] 激流
+/cast [help] 激流;[target=targettarget,help] 激流
+/cast 激流
+END
+VER 3 0100000000000010 "mp" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 德拉諾法力藥水
+/cast [modifier:alt] 德拉諾法力引導藥水
+END
+VER 3 0100000000000007 "run" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 鬼魂之狼
+/cast [modifier:alt] 靈行者之賜
+END
+VER 3 0100000000000006 "sl" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 療癒之潮圖騰
+/cast [modifier:alt] 卓越術
+END
+VER 3 0100000000000008 "water_totem" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 治療之泉圖騰(水之圖騰)
+/cast [modifier:alt] 雲爆圖騰
+END
+VER 3 0100000000000012 "zz" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 地震術
+/cast [modifier:alt] 治癒之雨
+END
+VER 3 0100000000000011 "斷法" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists] 削風術
+/cast [harm] 削風術;[target=targettarget,harm] 削風術
+/cast 削風術
+END
+VER 3 010000000000000D "釋放" "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover,exists,help,nodead] 釋放大地生命
+/cast [help] 釋放大地生命;[target=targettarget,help] 釋放大地生命
+/cast 釋放大地生命
+END

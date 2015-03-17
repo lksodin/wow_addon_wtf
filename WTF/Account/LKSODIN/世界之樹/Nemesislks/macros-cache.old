@@ -1,0 +1,44 @@
+VER 3 0100000000000002 "ddd" "Ability_BackStab"
+/施放 毀滅(等級 4)
+/stopcast
+/施放 撕碎(等級 5)
+END
+VER 3 0100000000000001 "dot" "Ability_CheapShot"
+/施放 突襲(等級 3)
+/stopcast
+/施放 掃擊(等級 4)
+END
+VER 3 0100000000000003 "mount" "INV_Misc_QuestionMark"
+/dismount
+/use [flyable] 迅捷棕狼號角;迅捷棕狼號角
+END
+VER 3 0100000000000009 "NS" "INV_Misc_QuestionMark"
+#showtooltip 自然迅捷
+/stopcasting
+/cast 自然迅捷
+END
+VER 3 0100000000000005 "偷襲" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [stance:stealth] 突襲;掃擊
+END
+VER 3 0100000000000004 "劫掠" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [stance:stealth] 劫掠;撕碎
+END
+VER 3 0100000000000006 "回春" "INV_Misc_QuestionMark"
+#showtooltip 回春術
+/cast [help]回春術;[target=targettarget,help]回春術
+END
+VER 3 0100000000000008 "治療之觸" "INV_Misc_QuestionMark"
+#showtooltip 治療之觸
+/cast [help]治療之觸;[target=targettarget,help]治療之觸
+END
+VER 3 0100000000000007 "癒合" "INV_Misc_QuestionMark"
+#showtooltip 癒合
+/cast [help]癒合;[target=targettarget,help]癒合
+END
+VER 3 010000000000000A "迅癒" "INV_Misc_QuestionMark"
+#showtooltip 迅癒
+/stopcasting
+/cast [help]迅癒;[target=targettarget,help]迅癒
+END

@@ -1,0 +1,10 @@
+
+TimelessIsleChestsDB = {
+	["profileKeys"] = {
+		["Lksodin - 世界之樹"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

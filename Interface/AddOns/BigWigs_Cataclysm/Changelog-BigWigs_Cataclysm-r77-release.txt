@@ -1,0 +1,82 @@
+------------------------------------------------------------------------
+r77 | funkydude | 2015-03-11 01:04:10 +0000 (Wed, 11 Mar 2015) | 1 line
+Changed paths:
+   A /tags/r77-release (from /trunk:76)
+
+Tagging as r77-release
+------------------------------------------------------------------------
+r76 | funkydude | 2015-03-11 01:03:30 +0000 (Wed, 11 Mar 2015) | 1 line
+Changed paths:
+   M /trunk/Firelands/Baleroc.lua
+
+Missed a comma.
+------------------------------------------------------------------------
+r75 | funkydude | 2015-03-11 00:58:29 +0000 (Wed, 11 Mar 2015) | 1 line
+Changed paths:
+   M /trunk/Baradin/Alizabal.lua
+   M /trunk/Baradin/Argaloth.lua
+   M /trunk/Baradin/Occuthar.lua
+   M /trunk/Bastion/Chogall.lua
+   M /trunk/Bastion/DoubleDragon.lua
+   M /trunk/Bastion/Halfus.lua
+   M /trunk/Bastion/Sinestra.lua
+   M /trunk/Bastion/TwilightAscendants.lua
+   M /trunk/Blackwing/Atramedes.lua
+   M /trunk/Blackwing/Chimaeron.lua
+   M /trunk/Blackwing/Magmaw.lua
+   M /trunk/Blackwing/Maloriak.lua
+   M /trunk/Blackwing/Nefarian.lua
+   M /trunk/Blackwing/Omnotron.lua
+   M /trunk/DragonSoul/Blackhorn.lua
+   M /trunk/DragonSoul/DeathwingMadness.lua
+   M /trunk/DragonSoul/DeathwingSpine.lua
+   M /trunk/DragonSoul/Hagara.lua
+   M /trunk/DragonSoul/Morchok.lua
+   M /trunk/DragonSoul/Ultraxion.lua
+   M /trunk/DragonSoul/Yorsahj.lua
+   M /trunk/DragonSoul/Zonozz.lua
+   M /trunk/Firelands/Alysrazor.lua
+   M /trunk/Firelands/Baleroc.lua
+   M /trunk/Firelands/Bethtilac.lua
+   M /trunk/Firelands/Ragnaros.lua
+   M /trunk/Firelands/Rhyolith.lua
+   M /trunk/Firelands/Shannox.lua
+   M /trunk/Firelands/Staghelm.lua
+   M /trunk/Throne/Alakir.lua
+   M /trunk/Throne/Conclave.lua
+
+Remove bosskill options
+------------------------------------------------------------------------
+r74 | funkydude | 2015-03-11 00:46:55 +0000 (Wed, 11 Mar 2015) | 1 line
+Changed paths:
+   M /trunk/DragonSoul/Locales/deDE.lua
+   M /trunk/DragonSoul/Locales/esES.lua
+   M /trunk/DragonSoul/Locales/frFR.lua
+   M /trunk/DragonSoul/Locales/itIT.lua
+   M /trunk/DragonSoul/Locales/koKR.lua
+   M /trunk/DragonSoul/Locales/ptBR.lua
+   M /trunk/DragonSoul/Locales/ruRU.lua
+   M /trunk/DragonSoul/Locales/zhCN.lua
+   M /trunk/DragonSoul/Locales/zhTW.lua
+   M /trunk/DragonSoul/Zonozz.lua
+
+DragonSoul/Zonozz: Fix texture for bounce option, add shadows marker to kill off the external marker addon.
+------------------------------------------------------------------------
+r72 | funkydude | 2015-02-24 23:43:32 +0000 (Tue, 24 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/BigWigs_Cataclysm.toc
+
+bump version
+------------------------------------------------------------------------
+r71 | funkydude | 2015-02-21 21:05:28 +0000 (Sat, 21 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/DragonSoul/DeathwingMadness.lua
+
+DeathwingMadness: Fix typo
+------------------------------------------------------------------------
+r70 | funkydude | 2015-01-06 23:01:01 +0000 (Tue, 06 Jan 2015) | 1 line
+Changed paths:
+   M /trunk/Throne/Alakir.lua
+
+Alakir: Bugfix
+------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+
+ThogarAssistDB = {
+	["profileKeys"] = {
+		["Lksodin - 冰霜之刺"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["posy"] = 437.33343072865,
+			["posx"] = 1145.60037496223,
+		},
+	},
+}

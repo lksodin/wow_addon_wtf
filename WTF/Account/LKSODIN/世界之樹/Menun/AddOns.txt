@@ -1,0 +1,13 @@
+XPerl_TeamSpeak: disabled
+AutoBar: disabled
+XPerl_Options: disabled
+XPerl_PlayerBuffs: disabled
+XPerl_Player: disabled
+XPerl_PlayerPet: disabled
+XPerl_TargetTarget: disabled
+XPerl_ArcaneBar: disabled
+XPerl_Target: disabled
+XPerl_CustomHighlight: disabled
+XPerl_Party: disabled
+XPerl_PartyPet: disabled
+XPerl: disabled

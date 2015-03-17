@@ -1,0 +1,30 @@
+
+DecursiveDB = {
+	["profileKeys"] = {
+		["Lksodin - 聖光之願"] = "Default",
+	},
+	["class"] = {
+		["WARRIOR"] = {
+			["CureOrder"] = {
+				-11, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				-12, -- [4]
+				[8] = -13,
+				[16] = -14,
+				[32] = -16,
+			},
+		},
+	},
+	["global"] = {
+		["LastVersionAnnounce"] = 1388140858,
+	},
+	["profiles"] = {
+		["Default"] = {
+			["DebuffsFrameContainer_y"] = 494.9333396402973,
+			["MainBarX"] = 682.6666585286439,
+			["MainBarY"] = -96.00000038146936,
+			["DebuffsFrameContainer_x"] = 1023.999987792966,
+		},
+	},
+}

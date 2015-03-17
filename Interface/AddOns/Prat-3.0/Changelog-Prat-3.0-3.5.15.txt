@@ -1,0 +1,8 @@
+2015-03-07  sylvanaar  <sylvanaar@mindspring.com>
+
+[442994c839ee] [3.5.15]
+* modules/PlayerNames.lua:
+
+Restore ALT-Invite functionality
+
+

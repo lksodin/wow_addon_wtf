@@ -1,0 +1,33 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Lksodin - 世界之樹"] = "Lksodin - 世界之樹",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.世界之樹.Lksodin"] = {
+				["XPMax"] = 815100,
+				["played"] = 10794886,
+				["guildRankName"] = "公會會長",
+				["isResting"] = false,
+				["lastUpdate"] = 1426277547,
+				["class"] = "戰士",
+				["race"] = "獸人",
+				["level"] = 95,
+				["XP"] = 162280,
+				["RestXP"] = 1221648,
+				["money"] = 40148101,
+				["gender"] = 2,
+				["subZone"] = "霜牆礦坑",
+				["zone"] = "霜牆要塞",
+				["guildRankIndex"] = 0,
+				["name"] = "Lksodin",
+				["faction"] = "Horde",
+				["englishRace"] = "Orc",
+				["guildName"] = "我的線上單機版",
+				["lastLogoutTimestamp"] = 1426277547,
+				["englishClass"] = "WARRIOR",
+			},
+		},
+	},
+}

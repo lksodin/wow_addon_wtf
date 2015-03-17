@@ -1,0 +1,19 @@
+------------------------------------------------------------------------
+r57 | funkydude | 2015-02-24 23:57:57 +0000 (Tue, 24 Feb 2015) | 1 line
+Changed paths:
+   A /tags/r57-release (from /trunk:56)
+
+Tagging as r57-release
+------------------------------------------------------------------------
+r56 | funkydude | 2015-02-24 23:43:29 +0000 (Tue, 24 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/BigWigs_Classic.toc
+
+bump version
+------------------------------------------------------------------------
+r55 | funkydude | 2015-02-17 11:21:35 +0000 (Tue, 17 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/MoltenCore/BaronGeddon.lua
+
+BaronGeddon: Remove default countdown, event is over.
+------------------------------------------------------------------------

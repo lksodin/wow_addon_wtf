@@ -1,0 +1,14 @@
+## Interface: 60100
+## Title: Big Wigs |cffff0000+|r|cffffffffThogar Lane Colors|r
+## Author: Neb
+## Version: 1.0
+## Dependencies: BigWigs
+## LoadOnDemand: 1
+## X-BigWigs-LoadOn-CoreLoaded: 1
+## X-Curse-Packaged-Version: r15
+## X-Curse-Project-Name: BigWigs_ThogarLaneColors
+## X-Curse-Project-ID: bigwigs_thogarlanecolors
+## X-Curse-Repository-ID: wow/bigwigs_thogarlanecolors/mainline
+
+Locales.lua
+Core.lua

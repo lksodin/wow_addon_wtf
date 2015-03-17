@@ -1,0 +1,165 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 0,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "DEATHKNIGHT",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["血魄瘟疫"] = {
+						["name"] = "血魄瘟疫",
+						["active"] = 0,
+						["id"] = 55078,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 4,
+					},
+					["血魄護盾"] = {
+						["name"] = "血魄護盾",
+						["active"] = 1,
+						["id"] = 77535,
+						["auratype"] = "BUFF",
+						["uptime"] = 5,
+					},
+					["鮮血氣息"] = {
+						["name"] = "鮮血氣息",
+						["active"] = 1,
+						["id"] = 50421,
+						["auratype"] = "BUFF",
+						["uptime"] = 8,
+					},
+					["還擊"] = {
+						["name"] = "還擊",
+						["active"] = 1,
+						["id"] = 145677,
+						["auratype"] = "BUFF",
+						["uptime"] = 8,
+					},
+					["憎恨"] = {
+						["name"] = "憎恨",
+						["active"] = 1,
+						["id"] = 132365,
+						["auratype"] = "BUFF",
+						["uptime"] = 8,
+					},
+					["符能腐化"] = {
+						["name"] = "符能腐化",
+						["active"] = 1,
+						["id"] = 51460,
+						["auratype"] = "BUFF",
+						["uptime"] = 3,
+					},
+					["冰霜熱疫"] = {
+						["name"] = "冰霜熱疫",
+						["active"] = 0,
+						["id"] = 55095,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 5,
+					},
+					["赤血災禍"] = {
+						["name"] = "赤血災禍",
+						["active"] = 1,
+						["id"] = 81141,
+						["auratype"] = "BUFF",
+						["uptime"] = 2,
+					},
+					["弱化攻擊"] = {
+						["name"] = "弱化攻擊",
+						["active"] = 0,
+						["id"] = 115798,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 4,
+					},
+				},
+				["ccbreaks"] = 0,
+				["time"] = 6,
+				["interrupts"] = 0,
+				["damage"] = 0,
+				["damagespells"] = {
+				},
+				["healed"] = {
+					["Konohamaru"] = {
+						["class"] = "DEATHKNIGHT",
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+				},
+				["deathlog"] = {
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 853165,
+						["ts"] = 1400379097.886,
+						["spellid"] = 45470,
+						["srcname"] = "Konohamaru",
+					}, -- [1]
+					{
+						["absorb"] = -585,
+						["hp"] = 853165,
+						["ts"] = 1400379100.716,
+						["srcname"] = "蜷伏兔妖",
+						["spellid"] = 88163,
+					}, -- [2]
+					["pos"] = 3,
+				},
+				["id"] = "0x02000000035C3C1D",
+				["dispells"] = 0,
+				["damagetakenspells"] = {
+				},
+				["power"] = {
+					[6] = {
+						["amount"] = 60,
+						["spells"] = {
+							[50421] = 60,
+						},
+					},
+				},
+				["overhealing"] = 97553,
+				["name"] = "Konohamaru",
+				["healingspells"] = {
+					["死亡打擊"] = {
+						["shielding"] = 0,
+						["id"] = 45470,
+						["healing"] = 0,
+						["min"] = 0,
+						["name"] = "死亡打擊",
+						["max"] = 0,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 97553,
+						["hits"] = 1,
+					},
+				},
+				["shielding"] = 0,
+				["healing"] = 0,
+				["damagetaken"] = 0,
+				["maxhp"] = 853165,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+		},
+		["shielding"] = 0,
+		["healing"] = 0,
+		["power"] = {
+			[6] = 60,
+		},
+		["overhealing"] = 97553,
+		["starttime"] = 1400379091,
+		["name"] = "總體的",
+		["damagetaken"] = 0,
+		["mobtaken"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1400379091,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+	},
+}

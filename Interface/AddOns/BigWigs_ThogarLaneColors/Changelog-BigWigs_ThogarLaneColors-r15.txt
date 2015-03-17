@@ -1,0 +1,97 @@
+------------------------------------------------------------------------
+r15 | nebula169 | 2015-02-25 02:36:00 +0000 (Wed, 25 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/BigWigs_ThogarLaneColors.toc
+   M /trunk/Core.lua
+
+toc bump
+------------------------------------------------------------------------
+r14 | nebula169 | 2015-02-20 01:42:51 +0000 (Fri, 20 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+fix lod
+------------------------------------------------------------------------
+r13 | nebula169 | 2015-02-19 07:17:52 +0000 (Thu, 19 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+bleh
+------------------------------------------------------------------------
+r12 | nebula169 | 2015-02-19 05:03:24 +0000 (Thu, 19 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+check for Thogar loading first
+------------------------------------------------------------------------
+r11 | nebula169 | 2015-02-18 16:38:24 +0000 (Wed, 18 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+fix BigWigs_BarCreated args
+------------------------------------------------------------------------
+r10 | nebula169 | 2015-02-18 16:15:42 +0000 (Wed, 18 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+simplify callback usage
+------------------------------------------------------------------------
+r9 | nebula169 | 2015-02-18 15:22:48 +0000 (Wed, 18 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+keep checking for the bar if it isn't created yet
+------------------------------------------------------------------------
+r8 | nebula169 | 2015-02-18 04:07:46 +0000 (Wed, 18 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+tweaks
+------------------------------------------------------------------------
+r7 | nebula169 | 2015-02-16 14:51:54 +0000 (Mon, 16 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+enable by default
+------------------------------------------------------------------------
+r6 | nebula169 | 2015-02-15 13:58:07 +0000 (Sun, 15 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/Locales.lua
+
+fix url
+------------------------------------------------------------------------
+r5 | nebula169 | 2015-02-15 13:53:38 +0000 (Sun, 15 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/BigWigs_ThogarLaneColors.toc
+   M /trunk/Core.lua
+   A /trunk/Locales.lua
+
+localize
+------------------------------------------------------------------------
+r4 | nebula169 | 2015-02-15 11:11:05 +0000 (Sun, 15 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+change defaults
+------------------------------------------------------------------------
+r3 | nebula169 | 2015-02-15 10:57:15 +0000 (Sun, 15 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+
+bump
+------------------------------------------------------------------------
+r2 | nebula169 | 2015-02-14 15:11:18 +0000 (Sat, 14 Feb 2015) | 1 line
+Changed paths:
+   A /trunk/BigWigs_ThogarLaneColors.toc
+   A /trunk/Core.lua
+
+initial
+------------------------------------------------------------------------
+r1 | svn | 2015-02-14 15:06:06 +0000 (Sat, 14 Feb 2015) | 1 line
+Changed paths:
+   A /branches
+   A /tags
+   A /trunk
+
+bigwigs_thogarlanecolors/mainline: Initial Import
+------------------------------------------------------------------------

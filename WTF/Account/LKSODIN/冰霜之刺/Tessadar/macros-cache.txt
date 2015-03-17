@@ -1,0 +1,10 @@
+VER 3 0100000000000001 "devil" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 惡魔化身
+/cast [modifier:alt] 惡魔飛躍
+END
+VER 3 0100000000000002 "zz" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 暗影之怒
+/cast [modifier:alt] 召喚煉獄火(守護者)
+END

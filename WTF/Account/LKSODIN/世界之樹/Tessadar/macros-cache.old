@@ -1,0 +1,51 @@
+VER 3 0100000000000004 "devil" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nomodifier:alt] 惡魔化身
+/cast [modifier:alt] 惡魔飛躍
+END
+VER 3 010000000000000B "mount" "INV_Misc_QuestionMark"
+#showtooltip
+/dismount
+/use [flyable] 西風之龍; 恐懼戰馬
+END
+VER 3 010000000000000C "mounta" "INV_Misc_QuestionMark"
+/dismount
+/cast 霜狼嗥叫者號角
+END
+VER 3 0100000000000007 "petfollow" "Ability_Tracking"
+/petstay
+/petfollow
+END
+VER 3 0100000000000008 "ss" "INV_Misc_QuestionMark"
+/cast 極強效靈魂石
+/stopmacro [nogroup]
+/y [ %t ] 你的靈魂我先收著保管半小時喔！XD
+END
+VER 3 0100000000000003 "war" "INV_Misc_QuestionMark"
+#show 生命分流
+/script PM=floor((UnitMana("pet")/UnitManaMax("pet"))*100);MM=floor((UnitMana("player")/UnitManaMax("player"))*100);SendChatMessage("目前MP為 "..MM.."%", "Guild");
+END
+VER 3 0100000000000005 "拉人" "INV_Misc_QuestionMark"
+#showtooltip
+/施放 召喚儀式()
+/p 正在為 -[%t]- 開啟任意門，兩人幫忙開門喔！
+END
+VER 3 0100000000000009 "放逐" "INV_Misc_QuestionMark"
+/clearfocus [modifier:alt]
+/focus [target=focus,noexists]; [target=focus,dead]
+/clearfocus [target=focus,help]
+/cast [target=focus,exists,harm] 放逐術;放逐術
+END
+VER 3 010000000000000A "犧牲" "INV_Misc_QuestionMark"
+/cast [pet:虛無行者] 犧牲
+END
+VER 3 0100000000000006 "魅惑" "INV_Misc_QuestionMark"
+#show 誘惑
+/clearfocus [modifier:alt]
+/focus [target=focus,noexists]; [target=focus,dead]
+/clearfocus [target=focus,help]
+/petstay
+/petfollow
+/stopcasting
+/cast [pet:魅魔,target=focus,exists,harm] 誘惑; 誘惑
+END

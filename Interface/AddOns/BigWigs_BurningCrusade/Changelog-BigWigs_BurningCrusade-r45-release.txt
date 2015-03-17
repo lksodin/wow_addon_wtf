@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+r45 | funkydude | 2015-02-24 23:57:37 +0000 (Tue, 24 Feb 2015) | 1 line
+Changed paths:
+   A /tags/r45-release (from /trunk:44)
+
+Tagging as r45-release
+------------------------------------------------------------------------
+r44 | funkydude | 2015-02-24 23:43:35 +0000 (Tue, 24 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/BigWigs_BurningCrusade.toc
+
+bump version
+------------------------------------------------------------------------
+r42 | funkydude | 2015-02-06 16:02:57 +0000 (Fri, 06 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/BigWigs_BurningCrusade.toc
+   M /trunk/Outland/Doomwalker.lua
+   M /trunk/Outland/Kazzak.lua
+
+Fix world boss menus.
+------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["hasUpgraded"] = true,
+	["profileKeys"] = {
+		["Lksodin - 聖光之願"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["y"] = 37.0000114440918,
+					["mode"] = "傷害",
+					["point"] = "BOTTOMLEFT",
+					["barwidth"] = 308.000244140625,
+					["background"] = {
+						["height"] = 105.0000152587891,
+					},
+					["x"] = 27.99999046325684,
+				}, -- [1]
+			},
+		},
+	},
+}

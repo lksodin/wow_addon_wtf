@@ -1,0 +1,61 @@
+VER 3 000000000000000A "Decursive" "INV_MISC_QUESTIONMARK"
+/script DecursiveRootTable.Dcr:Println('沒有可用法術')
+END
+VER 3 000000000000001D "m" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount
+/cast [flyable] 紅寶石獵豹; 裝甲拉札希迅猛龍
+END
+VER 3 0000000000000005 "mount_ride_only" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount
+/cast 裝甲拉札希迅猛龍
+END
+VER 3 000000000000000C "run" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 6
+END
+VER 3 0000000000000006 "test" "Spell_Shadow_LastingAffliction"
+/run local _,a,d,_,b=GetWorldPVPAreaInfo(2)c="開始"if b>7200 and d then b=b-7200 c="結束"end print(a.."剩 "..floor(b/60).." 分 "..mod(b,60).." 秒"..c)
+END
+VER 3 0000000000000020 "time冬沃" "SPELL_FROST_ARCTICWINDS"
+/run local _,a,d,_,b=GetWorldPVPAreaInfo(1)c="開始"if b>7200 and d then b=b-7200 c="結束"end print(a.."剩 "..floor(b/60).." 分 "..mod(b,60).." 秒"..c)
+END
+VER 3 0000000000000017 "trinket" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END
+VER 3 0000000000000025 "倒數" "INV_MISC_QUESTIONMARK"
+/dbm pull 8
+END
+VER 3 0000000000000026 "取消保護" "INV_MISC_QUESTIONMARK"
+/取消光環 保護聖禦
+END
+VER 3 000000000000001E "拖巴" "INV_MISC_QUESTIONMARK"
+/run if(not TB)then CreateFrame("Frame","TB",UIParent);end TB:SetScript("OnUpdate",function() local _,_,_,c=GetWorldPVPAreaInfo(2);if(c)then BattlefieldMgrQueueRequest(21);TB:SetScript("OnUpdate",nil);end end);message("啟用延時加入托巴拉德");
+END
+VER 3 000000000000001F "東握" "INV_MISC_QUESTIONMARK"
+/run if(not TB)then CreateFrame("Frame","TB",UIParent);end TB:SetScript("OnUpdate",function() local _,_,_,c=GetWorldPVPAreaInfo(1);if(c)then BattlefieldMgrQueueRequest(1);TB:SetScript("OnUpdate",nil);end end);message("啟用延時加入冬沃胡");
+END
+VER 3 0000000000000022 "磨" "INV_MISC_QUESTIONMARK"
+/cast 研磨
+/use 塔拉多爾蘭花
+/use 納葛蘭箭矢花
+/use 星辰花
+/use 火草
+/use 格古隆德捕蠅草
+/use 霜草
+END
+VER 3 000000000000000B "緩降" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 15
+END
+VER 3 0000000000000024 "裝甲" "INV_MISC_QUESTIONMARK"
+/weakauras
+END
+VER 3 0000000000000011 "鏡頭" "INV_MISC_QUESTIONMARK"
+/script SetCVar("cameraDistanceMaxFactor", 9) 
+END
+VER 3 000000000000001B "開怪" "INV_MISC_QUESTIONMARK"
+/y Lok'Tar Ogar!
+END

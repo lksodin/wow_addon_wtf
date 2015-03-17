@@ -1,0 +1,12 @@
+
+RKDatabase = {
+	["profileKeys"] = {
+		["Lksodin - 冰霜之刺"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["firstLoad"] = false,
+			["diffShown"] = 14,
+		},
+	},
+}

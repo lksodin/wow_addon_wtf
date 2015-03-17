@@ -1,0 +1,24 @@
+
+Gladius2DB = {
+	["profileKeys"] = {
+		["Lksodin - 冰霜之刺"] = "Lksodin - 冰霜之刺",
+	},
+	["profiles"] = {
+		["Lksodin - 冰霜之刺"] = {
+			["tagsVersion"] = 4,
+			["locked"] = true,
+			["x"] = {
+				["arena1"] = 1097.95575575299,
+			},
+			["announcements"] = {
+				["dispell"] = true,
+				["trinket"] = true,
+			},
+			["auraVersion"] = 1,
+			["y"] = {
+				["arena1"] = 595.200014412403,
+			},
+			["drTrackerCooldown"] = true,
+		},
+	},
+}

@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Lksodin|世界之樹|Horde|95|WARRIOR", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Lksodin - 世界之樹"] = "Lksodin - 世界之樹",
+	},
+	["profiles"] = {
+		["Lksodin - 世界之樹"] = {
+		},
+	},
+}

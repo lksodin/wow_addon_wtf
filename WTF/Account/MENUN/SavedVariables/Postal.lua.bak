@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Lksodin|聖光之願|Alliance|90|WARRIOR", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Lksodin - 聖光之願"] = "Lksodin - 聖光之願",
+	},
+	["profiles"] = {
+		["Lksodin - 聖光之願"] = {
+		},
+	},
+}

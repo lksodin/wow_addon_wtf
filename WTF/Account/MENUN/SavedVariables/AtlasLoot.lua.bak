@@ -1,0 +1,21 @@
+
+AtlasLootDB = {
+	["namespaces"] = {
+		["DefaultFrame"] = {
+		},
+		["AtlasLootPanel"] = {
+		},
+		["WishList"] = {
+		},
+		["Filter"] = {
+		},
+	},
+	["showWarning"] = true,
+	["profileKeys"] = {
+		["Lksodin - 聖光之願"] = "Lksodin - 聖光之願",
+	},
+	["profiles"] = {
+		["Lksodin - 聖光之願"] = {
+		},
+	},
+}

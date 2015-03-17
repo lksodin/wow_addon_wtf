@@ -1,0 +1,26 @@
+VER 3 0100000000000003 "DC" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,help,pet] 死亡纏繞
+/cast [target=mouseover,exists,harm,nodead] 死亡纏繞 
+/cast 死亡纏繞
+END
+VER 3 0100000000000001 "mount" "INV_Misc_QuestionMark"
+#showtooltip
+/dismount
+/cast [swimming]深淵海馬;[flyable]西風之龍;  柯爾克隆戰狼
+END
+VER 3 0100000000000002 "mounta" "INV_Misc_QuestionMark"
+#showtooltip
+/dismount
+/cast 亞榭洛死亡戰騎
+END
+VER 3 0100000000000004 "taunt" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,exists,harm,nodead]黑暗敕令
+/cast 黑暗敕令
+END
+VER 3 0100000000000005 "死亡契約" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 死者復生
+/cast 死亡契約
+END

@@ -1,0 +1,54 @@
+------------------------------------------------------------------------
+r12 | funkydude | 2015-03-10 15:30:42 +0000 (Tue, 10 Mar 2015) | 1 line
+Changed paths:
+   A /tags/r12-release (from /trunk:11)
+
+Tagging as r12-release
+------------------------------------------------------------------------
+r11 | funkydude | 2015-03-10 15:27:49 +0000 (Tue, 10 Mar 2015) | 1 line
+Changed paths:
+   M /trunk/HeartOfFear/Meljarak.lua
+   M /trunk/SiegeOfOrgrimmar/Galakras.lua
+   M /trunk/SiegeOfOrgrimmar/Immerseus.lua
+   M /trunk/SiegeOfOrgrimmar/IronJuggernaut.lua
+   M /trunk/SiegeOfOrgrimmar/ParagonsOfTheKlaxxi.lua
+   M /trunk/SiegeOfOrgrimmar/Thok.lua
+   M /trunk/ThroneOfThunder/Jinrokh.lua
+   M /trunk/ThroneOfThunder/LeiShen.lua
+   M /trunk/ThroneOfThunder/Megaera.lua
+   M /trunk/ThroneOfThunder/TwinConsorts.lua
+
+Fix various missing instances of SPELL_PERIODIC_MISSED.
+------------------------------------------------------------------------
+r9 | funkydude | 2015-02-24 23:45:05 +0000 (Tue, 24 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/BigWigs_MistsOfPandaria.toc
+
+bump version
+------------------------------------------------------------------------
+r8 | funkydude | 2015-02-17 11:22:57 +0000 (Tue, 17 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/EndlessSpring/ShaOfFear.lua
+   M /trunk/Mogushan/Elegon.lua
+   M /trunk/Mogushan/Garajal.lua
+   M /trunk/SiegeOfOrgrimmar/Galakras.lua
+   M /trunk/SiegeOfOrgrimmar/Norushen.lua
+   M /trunk/SiegeOfOrgrimmar/ShaOfPride.lua
+   M /trunk/SiegeOfOrgrimmar/SpoilsOfPandaria.lua
+   M /trunk/SiegeOfOrgrimmar/TheFallenProtectors.lua
+   M /trunk/ThroneOfThunder/LeiShen.lua
+
+Remove some countdowns and fix the remaining ones.
+------------------------------------------------------------------------
+r7 | funkydude | 2015-02-14 00:47:27 +0000 (Sat, 14 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/SiegeOfOrgrimmar/SpoilsOfPandaria.lua
+
+SpoilsOfPandaria: future proof the berserk bar.
+------------------------------------------------------------------------
+r6 | ananhaid | 2015-02-09 12:55:25 +0000 (Mon, 09 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/BigWigs_MistsOfPandaria.toc
+
+- zhCN/zhTW update.
+------------------------------------------------------------------------

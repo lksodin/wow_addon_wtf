@@ -1,0 +1,22 @@
+
+TipTac_Config = {
+	["anchorWorldTipType"] = "mouse",
+	["classification_elite"] = "+%s ",
+	["optionsBottom"] = 350.999908447266,
+	["optionsLeft"] = 749.000061035156,
+	["anchorWorldUnitPoint"] = "BOTTOMRIGHT",
+	["classification_trivial"] = "~%s ",
+	["classification_worldboss"] = "%s|r (Boss) ",
+	["talentCacheSize"] = 50,
+	["anchorFrameUnitPoint"] = "BOTTOMRIGHT",
+	["classification_rareelite"] = "+%s|r (Rare) ",
+	["anchorWorldUnitType"] = "mouse",
+	["targetYouText"] = "<<YOU>>",
+	["top"] = 552,
+	["classification_rare"] = "%s|r (Rare) ",
+	["classification_normal"] = "%s ",
+	["classification_minus"] = "-%s ",
+	["left"] = 903,
+	["anchorFrameUnitType"] = "mouse",
+	["anchorFrameTipType"] = "mouse",
+}

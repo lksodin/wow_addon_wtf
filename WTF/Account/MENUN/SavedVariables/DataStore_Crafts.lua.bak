@@ -1,0 +1,41 @@
+
+DataStore_CraftsDB = {
+	["profileKeys"] = {
+		["Kaidun - 冰霜之刺"] = "Kaidun - 冰霜之刺",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.冰霜之刺.Kaidun"] = {
+				["Professions"] = {
+					["考古學"] = {
+						["MaxRank"] = 75,
+						["Rank"] = 1,
+					},
+					["急救"] = {
+						["MaxRank"] = 700,
+						["Rank"] = 442,
+					},
+					["烹飪"] = {
+						["MaxRank"] = 700,
+						["Rank"] = 373,
+					},
+					["釣魚"] = {
+						["MaxRank"] = 225,
+						["Rank"] = 140,
+					},
+					["附魔"] = {
+						["MaxRank"] = 700,
+						["Rank"] = 630,
+					},
+					["裁縫"] = {
+						["MaxRank"] = 700,
+						["Rank"] = 700,
+					},
+				},
+				["Prof2"] = "附魔",
+				["lastUpdate"] = 1426344013,
+				["Prof1"] = "裁縫",
+			},
+		},
+	},
+}

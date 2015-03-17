@@ -1,0 +1,41 @@
+VER 3 010000000000000A "D" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 戰鬥就緒
+/cast [modifier:alt] 暗影披風
+END
+VER 3 010000000000000B "eng" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 狂暴(種族特長)
+/cast [nomodifier:alt] 生命之血
+/cast [modifier:alt] 能量刺激
+/cast [modifier:alt] 暗影之刃
+END
+VER 3 0100000000000008 "mount" "INV_Misc_QuestionMark"
+/dismount
+/use [flyable] 西風之龍;  柯爾克隆戰狼
+END
+VER 3 0100000000000009 "mounta" "INV_Misc_QuestionMark"
+/dismount
+/cast 黑色作戰科多獸
+END
+VER 3 0100000000000007 "totem" "Spell_Shadow_SoulLeech_2"
+/y 有圖騰，快打掉！
+END
+VER 3 0100000000000006 "奧爆" "Ability_Creature_Cursed_01"
+/tar 惡魔鍊
+END
+VER 3 0100000000000003 "悶" "INV_Misc_QuestionMark"
+/cast 悶棍
+/p 我悶 ★%t★喔，10秒內不要打他！
+/script SetRaidTargetIcon("target",1)
+END
+VER 3 0100000000000005 "斷法" "INV_Misc_QuestionMark"
+#show 腳踢
+/cast [target=mouseover,exists,harm]腳踢
+/cast 腳踢
+END
+VER 3 0100000000000004 "致盲" "INV_Misc_QuestionMark"
+#show 致盲
+/cast [target=mouseover,exists,harm]致盲
+/cast 致盲
+END

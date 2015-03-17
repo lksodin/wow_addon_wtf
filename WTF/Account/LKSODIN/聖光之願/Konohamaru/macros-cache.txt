@@ -1,0 +1,36 @@
+VER 3 0100000000000003 "DC" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,help,pet] 死亡纏繞
+/cast [target=mouseover,exists,harm,nodead] 死亡纏繞 
+/cast 死亡纏繞
+END
+VER 3 0100000000000006 "def" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 符文武器幻舞
+/cast [modifier:alt] 冰錮堅韌
+END
+VER 3 0100000000000007 "ffff" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 符文轉化(主動減傷技能)
+/cast [modifier:alt] 反魔法護罩
+END
+VER 3 0100000000000001 "mount" "INV_Misc_QuestionMark"
+#showtooltip
+/dismount
+/cast [swimming]深淵海馬;[flyable]西風之龍;  柯爾克隆戰狼
+END
+VER 3 0100000000000002 "mounta" "INV_Misc_QuestionMark"
+#showtooltip
+/dismount
+/cast 亞榭洛死亡戰騎
+END
+VER 3 0100000000000004 "taunt" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,exists,harm,nodead]黑暗敕令
+/cast 黑暗敕令
+END
+VER 3 0100000000000005 "死亡契約" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 血族之裔
+/cast 死亡契約
+END

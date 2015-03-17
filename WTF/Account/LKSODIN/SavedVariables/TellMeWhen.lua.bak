@@ -1,0 +1,33 @@
+
+TellMeWhenDB = {
+	["profileKeys"] = {
+		["Lksodin - 世界之樹"] = "Lksodin - 世界之樹",
+	},
+	["global"] = {
+		["TextLayouts"] = {
+			["icon1"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["bar2"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+		},
+	},
+	["Version"] = 72506,
+	["profiles"] = {
+		["Lksodin - 世界之樹"] = {
+			["Version"] = 72506,
+			["Groups"] = {
+				{
+					["GUID"] = "TMW:group:1L0plgCLlrZA",
+				}, -- [1]
+			},
+		},
+	},
+}

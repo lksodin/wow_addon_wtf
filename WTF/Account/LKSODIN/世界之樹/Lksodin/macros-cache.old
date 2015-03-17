@@ -1,0 +1,85 @@
+VER 3 010000000000001D "AE" "ABILITY_WARRIOR_BLADESTORM"
+#showtooltip 劍刃風暴
+/cast 化身
+/cast 魯莽
+/cast 骷髏戰旗
+/use 10
+/cast 劍刃風暴
+END
+VER 3 0100000000000021 "blood" "RACIAL_ORC_BERSERKERSTRENGTH"
+#showtooltip
+/cast 血之烈怒(種族特長)
+/cast 魯莽
+END
+VER 3 0100000000000014 "bs" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,exists,harm,nodead]嗜血
+/cast 嗜血
+END
+VER 3 0100000000000001 "def_skill" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 盾牆
+/cast [modifier:alt] 破釜沉舟
+END
+VER 3 0100000000000022 "ken" "INV_GAUNTLETS_04"
+#showtooltip
+/castsequence [target=mouseover,exists,harm,nodead]  reset=15 拳擊,高能弩箭槍
+/castsequence reset=15 拳擊,高能弩箭槍
+END
+VER 3 010000000000001B "relf" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence reset=25 法術反射,群體法術反射
+END
+VER 3 0100000000000020 "s2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 盾牌屏障
+/cast [modifier:alt] 振奮咆哮
+END
+VER 3 0100000000000008 "ss" "INV_Misc_QuestionMark"
+#showtooltip 盾牌猛擊
+/use 10
+/cast [target=mouseover,exists,harm,nodead]盾牌猛擊
+/cast 盾牌猛擊
+END
+VER 3 0100000000000005 "taunt" "Spell_Nature_Reincarnation"
+#showtooltip
+/cast [target=mouseover,exists]嘲諷
+/cast 嘲諷
+END
+VER 3 010000000000001E "巨像" "INV_MISC_QUESTIONMARK"
+#showtooltip 巨像碎擊
+/use 10
+/cast 巨像碎擊
+END
+VER 3 010000000000001C "戒守" "INV_MISC_QUESTIONMARK"
+#showtooltip 戒備守護
+/cast [@mouseover,help,exists][help]戒備守護
+END
+VER 3 0100000000000019 "戰吼" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 戰鬥怒吼
+/cast [modifier:alt] 命令之吼
+END
+VER 3 010000000000001F "暈" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,harm,nodead]暴風怒擲
+/cast 暴風怒擲
+END
+VER 3 0100000000000015 "破盾" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,exists,harm,nodead] 碎甲投擲
+/cast 碎甲投擲
+END
+VER 3 0100000000000023 "致死" "ABILITY_WARRIOR_SAVAGEBLOW"
+#showtooltip
+/castsequence reset=5 致死打擊,猛擊,猛擊,猛擊,猛擊
+END
+VER 3 0100000000000016 "英勇投擲" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,exists,harm,nodead]英勇投擲
+/cast 英勇投擲
+END
+VER 3 0100000000000004 "阻擾" "Ability_Warrior_VictoryRush"
+#showtooltip
+/cast [@mouseover,help,exists][help]阻擾;[@mouseover,harm][harm]衝鋒
+END

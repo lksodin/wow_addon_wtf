@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Lksodin - 世界之樹"] = "Lksodin - 世界之樹",
+	},
+	["profiles"] = {
+		["Lksodin - 世界之樹"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Lksodin - 世界之樹"] = "Lksodin - 世界之樹",
+	},
+	["profiles"] = {
+		["Lksodin - 世界之樹"] = {
+		},
+	},
+}

@@ -1,0 +1,92 @@
+
+DataStore_CurrenciesDB = {
+	["profileKeys"] = {
+		["Kaidun - 冰霜之刺"] = "Kaidun - 冰霜之刺",
+	},
+	["global"] = {
+		["Reference"] = {
+			["Currencies"] = {
+				"德拉諾之霸|", -- [1]
+				"文物碎片|Interface\\Icons\\inv_ashran_artifact", -- [2]
+				"要塞資源|Interface\\Icons\\inv_garrison_resource", -- [3]
+				"頂尖水晶|Interface\\Icons\\inv_apexis_draenor", -- [4]
+				"地城與團隊|", -- [5]
+				"正義點數|Interface\\Icons\\pvecurrency-justice", -- [6]
+				"玩家對玩家|", -- [7]
+				"征服點數|Interface\\Icons\\PVPCurrency-Conquest-Horde", -- [8]
+				"托巴拉德表揚徽章|Interface\\Icons\\achievement_zone_tolbarad", -- [9]
+				"榮譽點數|Interface\\Icons\\PVPCurrency-Honor-Horde", -- [10]
+				"雜項|", -- [11]
+				"美食主義者的獎勵|Interface\\Icons\\INV_Misc_Ribbon_01", -- [12]
+				"鐵爪徽章|Interface\\Icons\\inv_relics_idolofferocity", -- [13]
+				"潘達利亞之謎|", -- [14]
+				"次級好運符咒|Interface\\Icons\\inv_misc_coin_18", -- [15]
+			},
+			["CurrencyTextRev"] = {
+				["征服點數"] = 8,
+				["托巴拉德表揚徽章"] = 9,
+				["正義點數"] = 6,
+				["要塞資源"] = 3,
+				["文物碎片"] = 2,
+				["潘達利亞之謎"] = 14,
+				["玩家對玩家"] = 7,
+				["德拉諾之霸"] = 1,
+				["鐵爪徽章"] = 13,
+				["地城與團隊"] = 5,
+				["雜項"] = 11,
+				["美食主義者的獎勵"] = 12,
+				["榮譽點數"] = 10,
+				["頂尖水晶"] = 4,
+				["次級好運符咒"] = 15,
+			},
+		},
+		["Characters"] = {
+			["Default.冰霜之刺.Kaidun"] = {
+				["Currencies"] = {
+					3, -- [1]
+					4, -- [2]
+					924806, -- [3]
+					100744, -- [4]
+					11, -- [5]
+					12, -- [6]
+					15, -- [7]
+					3216, -- [8]
+					402, -- [9]
+					174356, -- [10]
+					23, -- [11]
+					1176, -- [12]
+					1050, -- [13]
+					29, -- [14]
+					23070, -- [15]
+				},
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					63, -- [13]
+					91, -- [14]
+					95, -- [15]
+				},
+				["lastUpdate"] = 1426598933,
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[396] = "0-0-0-0",
+					[390] = "25-0-15675-0",
+					[823] = "787-0-0-60000",
+					[392] = "1362-0-0-40",
+					[994] = "0-0-0-0",
+					[824] = "7225-0-0-10000",
+				},
+			},
+		},
+	},
+}

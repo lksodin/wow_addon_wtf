@@ -1,0 +1,41 @@
+
+DataStore_CraftsDB = {
+	["profileKeys"] = {
+		["Lksodin - 世界之樹"] = "Lksodin - 世界之樹",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.世界之樹.Lksodin"] = {
+				["Professions"] = {
+					["考古學"] = {
+						["MaxRank"] = 75,
+						["Rank"] = 1,
+					},
+					["急救"] = {
+						["MaxRank"] = 700,
+						["Rank"] = 600,
+					},
+					["烹飪"] = {
+						["MaxRank"] = 700,
+						["Rank"] = 530,
+					},
+					["鍛造"] = {
+						["MaxRank"] = 700,
+						["Rank"] = 694,
+					},
+					["釣魚"] = {
+						["MaxRank"] = 700,
+						["Rank"] = 604,
+					},
+					["工程學"] = {
+						["MaxRank"] = 700,
+						["Rank"] = 681,
+					},
+				},
+				["Prof2"] = "工程學",
+				["lastUpdate"] = 1426276556,
+				["Prof1"] = "鍛造",
+			},
+		},
+	},
+}

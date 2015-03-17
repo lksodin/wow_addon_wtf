@@ -1,0 +1,95 @@
+
+DataStore_CurrenciesDB = {
+	["profileKeys"] = {
+		["Lksodin - 世界之樹"] = "Lksodin - 世界之樹",
+	},
+	["global"] = {
+		["Reference"] = {
+			["Currencies"] = {
+				"德拉諾之霸|", -- [1]
+				"淬鍊命運徽印|Interface\\Icons\\ability_animusorbs", -- [2]
+				"要塞資源|Interface\\Icons\\inv_garrison_resource", -- [3]
+				"頂尖水晶|Interface\\Icons\\inv_apexis_draenor", -- [4]
+				"地城與團隊|", -- [5]
+				"勇氣點數|Interface\\Icons\\pvecurrency-valor", -- [6]
+				"正義點數|Interface\\Icons\\pvecurrency-justice", -- [7]
+				"玩家對玩家|", -- [8]
+				"征服點數|Interface\\Icons\\PVPCurrency-Conquest-Horde", -- [9]
+				"榮譽點數|Interface\\Icons\\PVPCurrency-Honor-Horde", -- [10]
+				"雜項|", -- [11]
+				"鐵爪徽章|Interface\\Icons\\inv_relics_idolofferocity", -- [12]
+				"潘達利亞之謎|", -- [13]
+				"戰鑄徽印|Interface\\Icons\\inv_arcane_orb", -- [14]
+				"次級好運符咒|Interface\\Icons\\inv_misc_coin_18", -- [15]
+				"永恆硬幣|Interface\\Icons\\timelesscoin", -- [16]
+			},
+			["CurrencyTextRev"] = {
+				["頂尖水晶"] = 4,
+				["永恆硬幣"] = 16,
+				["勇氣點數"] = 6,
+				["要塞資源"] = 3,
+				["次級好運符咒"] = 15,
+				["德拉諾之霸"] = 1,
+				["潘達利亞之謎"] = 13,
+				["玩家對玩家"] = 8,
+				["正義點數"] = 7,
+				["鐵爪徽章"] = 12,
+				["淬鍊命運徽印"] = 2,
+				["雜項"] = 11,
+				["榮譽點數"] = 10,
+				["征服點數"] = 9,
+				["地城與團隊"] = 5,
+				["戰鑄徽印"] = 14,
+			},
+		},
+		["Characters"] = {
+			["Default.世界之樹.Lksodin"] = {
+				["Currencies"] = {
+					3, -- [1]
+					132, -- [2]
+					287238, -- [3]
+					349576, -- [4]
+					11, -- [5]
+					12, -- [6]
+					14, -- [7]
+					17, -- [8]
+					18, -- [9]
+					40468, -- [10]
+					23, -- [11]
+					1048, -- [12]
+					27, -- [13]
+					2076, -- [14]
+					131742, -- [15]
+					1886368, -- [16]
+				},
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					82, -- [13]
+					86, -- [14]
+					190, -- [15]
+				},
+				["lastUpdate"] = 1426276557,
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[396] = "0-0-10-3000",
+					[390] = "0-0-15700-0",
+					[823] = "2731-0-0-60000",
+					[392] = "316-0-0-40",
+					[994] = "1-0-0-10",
+					[824] = "2244-0-0-10000",
+				},
+			},
+		},
+	},
+}

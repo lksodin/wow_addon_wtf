@@ -1,0 +1,6 @@
+VER 3 0100000000000001 "df" "Ability_Creature_Disease_04"
+/script nam,realm = UnitName("Target"); if (realm==nil) then realm="世界之樹";end; SendChatMessage("玩家ID："..nam.." 伺服器："..realm.." ", "Say");
+END
+VER 3 0100000000000002 "ff" "Ability_Ambush"
+/script name = UnitName("Target"); SendChatMessage("玩家ID："..name.." 伺服器：", "Say");
+END

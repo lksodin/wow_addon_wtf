@@ -1,0 +1,86 @@
+VER 3 0100000000000006 "chain" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead] 治療鍊
+/cast [help] 治療鍊;[target=targettarget,help] 治療鍊
+/cast  治療鍊
+END
+VER 3 0100000000000010 "cls" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [help] 淨化靈魂;[harm] 淨魔術
+END
+VER 3 0100000000000008 "def" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 星界轉移
+/cast [modifier:alt] 土元素圖騰
+END
+VER 3 0100000000000013 "fire" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 液態岩漿
+/cast 灼熱圖騰(火焰圖騰)
+END
+VER 3 0100000000000009 "fire" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 英勇氣概
+/cast [modifier:alt] 火元素圖騰
+END
+VER 3 0100000000000005 "heal" "SPELL_NATURE_MAGICIMMUNITY"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead] 治療波
+/cast [help] 治療波;[target=targettarget,help] 治療波
+/cast 治療波
+END
+VER 3 010000000000000C "ht" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 療癒之潮圖騰
+/cast [modifier:alt] 卓越術
+END
+VER 3 0100000000000015 "q" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 治療之泉圖騰(水之圖騰)
+/cast [modifier:alt] 雲爆圖騰
+END
+VER 3 010000000000000D "walk" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 鬼魂之狼
+/cast [modifier:alt] 靈行者之賜
+END
+VER 3 0100000000000012 "zz" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 地震術
+/cast [modifier:alt] 治癒之雨
+END
+VER 3 0100000000000003 "地盾" "SPELL_NATURE_SKINOFEARTH"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead] 大地之盾
+/cast [help] 大地之盾;[target=targettarget,help] 大地之盾
+/cast 大地之盾
+END
+VER 3 0100000000000002 "快補" "SPELL_NATURE_HEALINGWAY"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead] 洶湧治療
+/cast [help] 洶湧治療;[target=targettarget,help] 洶湧治療
+/cast 洶湧治療
+END
+VER 3 0100000000000004 "恢復" "SPELL_NATURE_RIPTIDE"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead] 激流
+/cast [help] 激流;[target=targettarget,help] 激流
+/cast 激流
+END
+VER 3 010000000000000E "戰慄" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 戰慄圖騰
+/cast [modifier:alt] 雷霆風暴
+END
+VER 3 0100000000000014 "斷法" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists] 削風術
+/cast [harm] 削風術;[target=targettarget,harm] 削風術
+/cast 削風術
+END
+VER 3 010000000000000B "釋放" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead] 釋放大地生命
+/cast [help] 釋放大地生命;[target=targettarget,help] 釋放大地生命
+/cast 釋放大地生命
+END

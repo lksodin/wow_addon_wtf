@@ -1,0 +1,14 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Lksodin - 世界之樹"] = "Lksodin - 世界之樹",
+	},
+	["global"] = {
+		["Version"] = 1,
+		["Characters"] = {
+			["Default.世界之樹.Lksodin"] = {
+				["faction"] = "Horde",
+			},
+		},
+	},
+}

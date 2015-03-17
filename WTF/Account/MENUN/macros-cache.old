@@ -1,0 +1,31 @@
+VER 3 0000000000000005 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 驅散魔法;  [@mouseover,exists,mod:ctrl] 驅散魔法; [@mouseover,exists,mod:shift] 驅散魔法
+END
+VER 3 0000000000000004 "f sodin" "Ability_Ambush"
+/follow lksodin
+END
+VER 3 0000000000000001 "FLY" "Ability_Hunter_EagleEye"
+#showtooltip
+/dismount
+/cast [flyable] 西風之龍;  冰原長毛象
+END
+VER 3 0000000000000002 "follow" "Ability_Ambush"
+/follow
+END
+VER 3 0000000000000003 "lay" "Ability_Druid_EclipseOrange"
+/lay
+END
+VER 3 0000000000000008 "time" "TRADE_ENGINEERING"
+/run local _,a,d,_,b=GetWorldPVPAreaInfo(2)c="開始"if b>7200 and d then b=b-7200 c="結束"end print(a.."剩 "..floor(b/60).." 分 "..mod(b,60).." 秒"..c)
+END
+VER 3 0000000000000009 "trinket" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END
+VER 3 0000000000000007 "冬沃" "SPELL_FROST_ARCTICWINDS"
+/run local _,a,d,_,b=GetWorldPVPAreaInfo(1)c="開始"if b>7200 and d then b=b-7200 c="結束"end print(a.."剩 "..floor(b/60).." 分 "..mod(b,60).." 秒"..c)
+END
+VER 3 0000000000000006 "拖八" "INV_MISC_QUESTIONMARK"
+/run if(not TB)then CreateFrame("Frame","TB",UIParent);end TB:SetScript("OnUpdate",function() local _,_,_,c=GetWorldPVPAreaInfo(2);if(c)then BattlefieldMgrQueueRequest(21);TB:SetScript("OnUpdate",nil);end end);message("啟用延時加入托巴拉德");
+END

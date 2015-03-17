@@ -1,0 +1,89 @@
+VER 3 010000000000000F "cls" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,help] 驅淨術;[target=mouseover,exists,harm] 驅散魔法
+/cast [help] 驅淨術;[harm] 驅散魔法
+END
+VER 3 0100000000000004 "fh" "INV_Misc_QuestionMark"
+#showtooltip 快速治療
+/cast [target=mouseover,exists]快速治療
+/cast [help] 快速治療;[target=targettarget,help] 快速治療
+/cast 快速治療
+END
+VER 3 0100000000000005 "gh" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead]治療術
+/cast [help] 治療術;[target=targettarget,help] 治療術
+/cast 治療術
+END
+VER 3 0100000000000003 "HOT" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead]恢復
+/cast [help] 恢復;[target=targettarget,help] 恢復
+/cast 恢復
+END
+VER 3 0100000000000001 "mount" "INV_Misc_QuestionMark"
+#showtooltip
+/dismount
+/use [flyable]  紅寶石獵豹; 冰原長毛象
+END
+VER 3 0100000000000002 "ride" "INV_Misc_QuestionMark"
+#showtooltip
+/dismount
+/use  冰原長毛象
+END
+VER 3 0100000000000009 "shield" "INV_Misc_QuestionMark"
+#showtooltip 真言術:盾
+/cast [target=mouseover,exists,help,nodead]真言術:盾
+/cast [help]真言術:盾;[target=targettarget,help] 真言術:盾
+/cast 真言術:盾
+END
+VER 3 010000000000000B "守護" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead] 守護聖靈
+/cast 守護聖靈
+END
+VER 3 010000000000000A "導言" "INV_Misc_QuestionMark"
+#showtooltip  癒合禱言
+/cast [target=mouseover,exists,help,nodead]癒合禱言
+/cast [help] 癒合禱言;[target=targettarget,help] 癒合禱言
+/cast 癒合禱言
+END
+VER 3 0100000000000010 "導言" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead] 治療禱言
+/cast [help] 治療禱言;[target=targettarget,help] 治療禱言
+/cast 治療禱言
+END
+VER 3 0100000000000011 "悟懺" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists] 懺悟
+/cast 懺悟
+END
+VER 3 010000000000000E "環" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [target=mouseover,exists,help,nodead] 治療之環
+/cast [help] 治療之環;[target=targettarget,help] 治療之環
+/cast 治療之環
+END
+VER 3 0100000000000006 "痛" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,exists,harm,nodead] 暗言術:痛
+/cast 暗言術:痛
+END
+VER 3 0100000000000008 "瘟疫" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,exists,harm,nodead]  噬靈瘟疫
+/cast 噬靈瘟疫
+END
+VER 3 010000000000000C "神箭" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,help,nodead]神聖箭矢
+/cast [help] 神聖箭矢;[target=targettarget,help] 神聖箭矢
+/cast 神聖箭矢
+END
+VER 3 0100000000000012 "神聖之火" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,harm] 神聖之火
+/cast [target=targettarget,harm] 神聖之火:神聖之火
+/cast 神聖之火
+END

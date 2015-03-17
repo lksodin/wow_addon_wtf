@@ -1,0 +1,38 @@
+------------------------------------------------------------------------
+r62 | funkydude | 2015-02-24 23:58:08 +0000 (Tue, 24 Feb 2015) | 1 line
+Changed paths:
+   A /tags/r62-release (from /trunk:61)
+
+Tagging as r62-release
+------------------------------------------------------------------------
+r61 | funkydude | 2015-02-24 23:43:09 +0000 (Tue, 24 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/BigWigs_WrathOfTheLichKing.toc
+
+bump version
+------------------------------------------------------------------------
+r60 | funkydude | 2015-02-19 21:03:18 +0000 (Thu, 19 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/Naxxramas/Horsemen.lua
+   M /trunk/Naxxramas/Thaddius.lua
+
+Naxxramas: Error fixes.
+------------------------------------------------------------------------
+r58 | funkydude | 2015-02-12 10:24:48 +0000 (Thu, 12 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/Naxxramas/Horsemen.lua
+   M /trunk/Naxxramas/Locales/deDE.lua
+   M /trunk/Naxxramas/Locales/frFR.lua
+   M /trunk/Naxxramas/Locales/koKR.lua
+   M /trunk/Naxxramas/Locales/ruRU.lua
+   M /trunk/Naxxramas/Locales/zhCN.lua
+   M /trunk/Naxxramas/Locales/zhTW.lua
+
+Horsemen: Fix error on engage.
+------------------------------------------------------------------------
+r57 | funkydude | 2014-12-17 23:18:36 +0000 (Wed, 17 Dec 2014) | 1 line
+Changed paths:
+   M /trunk/Citadel/Saurfang.lua
+
+Saurfang: Fix enabling.
+------------------------------------------------------------------------

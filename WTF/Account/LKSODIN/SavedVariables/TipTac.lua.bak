@@ -1,0 +1,21 @@
+
+TipTac_Config = {
+	["classification_rare"] = "%s|r (Rare) ",
+	["classification_elite"] = "+%s ",
+	["left"] = 796.3333740234375,
+	["optionsLeft"] = 642.2223510742188,
+	["anchorWorldUnitPoint"] = "BOTTOMRIGHT",
+	["classification_trivial"] = "~%s ",
+	["classification_worldboss"] = "%s|r (Boss) ",
+	["classification_rareelite"] = "+%s|r (Rare) ",
+	["anchorWorldUnitType"] = "mouse",
+	["targetYouText"] = "<<YOU>>",
+	["top"] = 492.0000305175781,
+	["if_showSpellIdAndRank"] = true,
+	["anchorFrameTipType"] = "mouse",
+	["optionsBottom"] = 292.7778015136719,
+	["classification_minus"] = "-%s ",
+	["anchorWorldTipType"] = "mouse",
+	["anchorFrameUnitType"] = "mouse",
+	["classification_normal"] = "%s ",
+}

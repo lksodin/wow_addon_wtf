@@ -1,0 +1,83 @@
+VER 3 0100000000000001 "def" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 盾牆
+/cast [modifier:alt] 破釜沉舟
+END
+VER 3 010000000000000D "exp" "INV_MISC_QUESTIONMARK"
+#showtooltip 魯莽
+/use 德萊尼力量藥水
+/cast 狂暴之怒
+/cast 魯莽
+/cast 巨像化身
+END
+VER 3 010000000000000E "heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 治療藥劑
+END
+VER 3 0100000000000011 "jump" "INV_MISC_QUESTIONMARK"
+#showtooltip 英勇躍擊
+/cancelaura 劍刃風暴
+/cast 英勇躍擊
+END
+VER 3 0100000000000002 "ken" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,harm,nodead] 拳擊
+/cast 拳擊
+/say 對[%t]使用拳擊
+END
+VER 3 0100000000000003 "relf" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence reset=25 法術反射,群體法術反射
+END
+VER 3 0100000000000004 "s2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 盾牌屏障
+/cast [modifier:alt] 振奮咆哮
+END
+VER 3 0100000000000005 "ss" "INV_MISC_QUESTIONMARK"
+#showtooltip 盾牌猛擊
+/use 10
+/cast [target=mouseover,exists,harm,nodead]盾牌猛擊
+/cast 盾牌猛擊
+END
+VER 3 0100000000000006 "taunt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists] 嘲諷
+/cast 嘲諷
+END
+VER 3 0100000000000010 "w_def" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 劍下亡魂
+/cast [modifier:alt] 振奮咆哮
+END
+VER 3 010000000000000F "取消保護" "INV_MISC_QUESTIONMARK"
+END
+VER 3 0100000000000009 "怒擲" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,harm,nodead]暴風怒擲
+/cast 暴風怒擲
+END
+VER 3 0100000000000007 "戒守" "INV_MISC_QUESTIONMARK"
+#showtooltip 戒備守護
+/cast [@mouseover,help,exists][help]戒備守護
+ 
+END
+VER 3 0100000000000008 "戰吼" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 戰鬥怒吼
+/cast [modifier:alt] 命令之吼
+END
+VER 3 010000000000000C "狂暴" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 狂暴之怒
+/cast [modifier:alt] 橫掃攻擊
+END
+VER 3 010000000000000A "英勇投擲" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists,harm,nodead]英勇投擲
+/cast 英勇投擲
+END
+VER 3 010000000000000B "阻擾" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help][help]阻擾;[@mouseover,harm][harm]衝鋒
+END

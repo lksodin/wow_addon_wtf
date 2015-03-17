@@ -1,0 +1,20 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Lksodin - 聖光之願"] = "Lksodin - 聖光之願",
+	},
+	["profiles"] = {
+		["Lksodin - 聖光之願"] = {
+			["PositionW"] = 248.0000152587891,
+			["PositionH"] = 104.2222595214844,
+			["VGrip2"] = 142.6000087738037,
+			["PositionY"] = 105.2219696044922,
+			["Shown"] = true,
+			["PositionX"] = 1458.666870117188,
+			["MinimapIcon"] = {
+				["minimapPos"] = 228.8386060991313,
+			},
+			["VGrip1"] = 105.4000064849854,
+		},
+	},
+}

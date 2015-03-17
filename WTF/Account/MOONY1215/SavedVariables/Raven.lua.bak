@@ -1,0 +1,20 @@
+
+RavenDB = {
+	["profileKeys"] = {
+		["Lksodin - 聖光之願"] = "Lksodin - 聖光之願",
+	},
+	["global"] = {
+		["Version"] = "7",
+		["Minimap"] = {
+			["minimapPos"] = 158.6456280408282,
+		},
+	},
+	["profiles"] = {
+		["Lksodin - 聖光之願"] = {
+			["Durations"] = {
+				[127230] = 3600.031,
+				[104267] = 3600.031,
+			},
+		},
+	},
+}

@@ -1,0 +1,421 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 0,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "PRIEST",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["暗影惡魔: 遁影"] = {
+						["name"] = "暗影惡魔: 遁影",
+						["active"] = 0,
+						["id"] = 63619,
+						["auratype"] = "BUFF",
+						["uptime"] = 10,
+					},
+					["救贖印記"] = {
+						["name"] = "救贖印記",
+						["active"] = 1,
+						["id"] = 148908,
+						["auratype"] = "BUFF",
+						["uptime"] = 3,
+					},
+					["暗言術:痛"] = {
+						["name"] = "暗言術:痛",
+						["active"] = 0,
+						["id"] = 589,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 33,
+					},
+					["真言術:盾"] = {
+						["name"] = "真言術:盾",
+						["active"] = 0,
+						["id"] = 17,
+						["auratype"] = "BUFF",
+						["uptime"] = 15,
+					},
+					["虛弱靈魂"] = {
+						["name"] = "虛弱靈魂",
+						["active"] = 0,
+						["id"] = 6788,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 15,
+					},
+					["神聖洞察"] = {
+						["name"] = "神聖洞察",
+						["active"] = 0,
+						["id"] = 124430,
+						["auratype"] = "BUFF",
+						["uptime"] = 17,
+					},
+					["噬靈瘟疫"] = {
+						["name"] = "噬靈瘟疫",
+						["active"] = 0,
+						["id"] = 2944,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 6,
+					},
+					["吸血之觸"] = {
+						["name"] = "吸血之觸",
+						["active"] = 0,
+						["id"] = 34914,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 7,
+					},
+					["風歌"] = {
+						["name"] = "風歌",
+						["active"] = 1,
+						["id"] = 104509,
+						["auratype"] = "BUFF",
+						["uptime"] = 20,
+					},
+					["黑暗奔騰"] = {
+						["name"] = "黑暗奔騰",
+						["active"] = 0,
+						["id"] = 87160,
+						["auratype"] = "BUFF",
+						["uptime"] = 2,
+					},
+				},
+				["ccbreaks"] = 0,
+				["time"] = 55,
+				["interrupts"] = 0,
+				["damage"] = 0,
+				["damagespells"] = {
+				},
+				["healed"] = {
+					["頑固的野草"] = {
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+					["Moonybaby"] = {
+						["class"] = "PRIEST",
+						["shielding"] = 29760.0859375,
+						["amount"] = 58002.0859375,
+					},
+					["風切仙人掌"] = {
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+					["被佔用的土地"] = {
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+					["未開墾的荒土"] = {
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+				},
+				["deathlog"] = {
+					{
+						["ts"] = 1400374707.421,
+						["amount"] = -1300,
+						["hp"] = 551845,
+						["spellid"] = 88163,
+						["srcname"] = "蜷伏兔妖",
+					}, -- [1]
+					{
+						["ts"] = 1400374807.834,
+						["amount"] = -1888,
+						["hp"] = 559613,
+						["spellid"] = 88163,
+						["srcname"] = "振翅平原隼",
+					}, -- [2]
+					{
+						["ts"] = 1400374809.841,
+						["amount"] = -1362,
+						["hp"] = 557725,
+						["spellid"] = 88163,
+						["srcname"] = "振翅平原隼",
+					}, -- [3]
+					{
+						["ts"] = 1400374813.859,
+						["amount"] = -1914,
+						["hp"] = 556363,
+						["spellid"] = 88163,
+						["srcname"] = "振翅平原隼",
+					}, -- [4]
+					{
+						["absorb"] = 0,
+						["ts"] = 1400374814.234,
+						["amount"] = 5164,
+						["hp"] = 559613,
+						["spellid"] = 127626,
+						["srcname"] = "Moonybaby",
+					}, -- [5]
+					{
+						["absorb"] = 0,
+						["ts"] = 1400374815.044,
+						["amount"] = 0,
+						["hp"] = 559613,
+						["spellid"] = 127626,
+						["srcname"] = "Moonybaby",
+					}, -- [6]
+					{
+						["absorb"] = 0,
+						["ts"] = 1400374815.876,
+						["amount"] = 0,
+						["hp"] = 559613,
+						["spellid"] = 127626,
+						["srcname"] = "Moonybaby",
+					}, -- [7]
+					{
+						["ts"] = 1400374815.876,
+						["amount"] = -1504,
+						["hp"] = 559613,
+						["spellid"] = 88163,
+						["srcname"] = "振翅平原隼",
+					}, -- [8]
+					{
+						["ts"] = 1400374816.294,
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 559613,
+						["spellid"] = 127626,
+						["srcname"] = "Moonybaby",
+					}, -- [9]
+					{
+						["absorb"] = 0,
+						["ts"] = 1400374816.636,
+						["amount"] = 1504,
+						["hp"] = 559613,
+						["spellid"] = 127626,
+						["srcname"] = "Moonybaby",
+					}, -- [10]
+					{
+						["absorb"] = 0,
+						["ts"] = 1400374817.449,
+						["amount"] = 0,
+						["hp"] = 559613,
+						["spellid"] = 127626,
+						["srcname"] = "Moonybaby",
+					}, -- [11]
+					{
+						["hp"] = 559613,
+						["amount"] = -1653,
+						["ts"] = 1400374817.853,
+						["spellid"] = 88163,
+						["srcname"] = "振翅平原隼",
+					}, -- [12]
+					{
+						["absorb"] = 0,
+						["hp"] = 559613,
+						["amount"] = 1653,
+						["ts"] = 1400374818.264,
+						["srcname"] = "Moonybaby",
+						["spellid"] = 127626,
+					}, -- [13]
+					{
+						["absorb"] = 0,
+						["hp"] = 559613,
+						["amount"] = 0,
+						["ts"] = 1400374818.264,
+						["srcname"] = "Moonybaby",
+						["spellid"] = 127626,
+					}, -- [14]
+					{
+						["absorb"] = 0,
+						["hp"] = 559613,
+						["amount"] = 0,
+						["ts"] = 1400374819.02,
+						["srcname"] = "Moonybaby",
+						["spellid"] = 127626,
+					}, -- [15]
+					["pos"] = 1,
+				},
+				["id"] = "0x02000000035C3894",
+				["dispells"] = 0,
+				["damagetakenspells"] = {
+					["近戰攻擊"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 1056,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "近戰攻擊",
+						["blocked"] = 0,
+						["totalhits"] = 27,
+						["resisted"] = 0,
+						["max"] = 1914,
+						["damage"] = 37310,
+					},
+				},
+				["power"] = {
+					[0] = {
+						["amount"] = 120000,
+						["spells"] = {
+							[34650] = 90000,
+							[34919] = 30000,
+						},
+					},
+					[13] = {
+						["amount"] = 1,
+						["spells"] = {
+							[8092] = 1,
+						},
+					},
+				},
+				["overhealing"] = 893231,
+				["name"] = "Moonybaby",
+				["healingspells"] = {
+					["輝環"] = {
+						["shielding"] = 0,
+						["id"] = 120696,
+						["healing"] = 5494,
+						["min"] = 0,
+						["name"] = "輝環",
+						["max"] = 5494,
+						["critical"] = 4,
+						["absorbed"] = 0,
+						["overhealing"] = 813516,
+						["hits"] = 18,
+					},
+					["真言術:盾雕紋"] = {
+						["shielding"] = 0,
+						["id"] = 56160,
+						["healing"] = 14427,
+						["min"] = 14427,
+						["name"] = "真言術:盾雕紋",
+						["max"] = 14427,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 1865,
+						["hits"] = 1,
+					},
+					["真言術:盾"] = {
+						["shielding"] = 29760.0859375,
+						["id"] = 17,
+						["healing"] = 29760.0859375,
+						["min"] = 29760.0859375,
+						["name"] = "真言術:盾",
+						["max"] = 29760.0859375,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 35409,
+						["hits"] = 1,
+					},
+					["噬靈瘟疫"] = {
+						["shielding"] = 0,
+						["id"] = 127626,
+						["healing"] = 8321,
+						["min"] = 0,
+						["name"] = "噬靈瘟疫",
+						["max"] = 5164,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 42441,
+						["hits"] = 9,
+					},
+				},
+				["shielding"] = 29760.0859375,
+				["healing"] = 58002.0859375,
+				["damagetaken"] = 37310,
+				["maxhp"] = 559613,
+			}, -- [1]
+			{
+				["healingabsorbed"] = 0,
+				["damaged"] = {
+				},
+				["auras"] = {
+					["暈眩"] = {
+						["name"] = "暈眩",
+						["active"] = 0,
+						["id"] = 1604,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 2,
+					},
+				},
+				["ccbreaks"] = 0,
+				["time"] = 2,
+				["interrupts"] = 0,
+				["damage"] = 0,
+				["damagespells"] = {
+				},
+				["healed"] = {
+				},
+				["deathlog"] = {
+				},
+				["id"] = "0xF130EB0E0062A9D6",
+				["maxhp"] = 0,
+				["dispells"] = 0,
+				["damagetakenspells"] = {
+				},
+				["power"] = {
+				},
+				["overhealing"] = 0,
+				["name"] = "蜷伏兔妖",
+				["healingspells"] = {
+				},
+				["shielding"] = 0,
+				["damagetaken"] = 0,
+				["healing"] = 0,
+			}, -- [2]
+			{
+				["healingabsorbed"] = 0,
+				["damaged"] = {
+				},
+				["auras"] = {
+					["暈眩"] = {
+						["name"] = "暈眩",
+						["active"] = 0,
+						["id"] = 1604,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 9,
+					},
+				},
+				["ccbreaks"] = 0,
+				["time"] = 12,
+				["interrupts"] = 0,
+				["damage"] = 0,
+				["damagespells"] = {
+				},
+				["healed"] = {
+				},
+				["deathlog"] = {
+				},
+				["id"] = "0xF130EB0E0062A929",
+				["maxhp"] = 0,
+				["dispells"] = 0,
+				["damagetakenspells"] = {
+				},
+				["power"] = {
+				},
+				["overhealing"] = 0,
+				["name"] = "蜷伏兔妖",
+				["healingspells"] = {
+				},
+				["shielding"] = 0,
+				["damagetaken"] = 0,
+				["healing"] = 0,
+			}, -- [3]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+		},
+		["shielding"] = 29760.0859375,
+		["healing"] = 58002.0859375,
+		["power"] = {
+			[0] = 120000,
+			[13] = 1,
+		},
+		["overhealing"] = 893231,
+		["starttime"] = 1400374659,
+		["name"] = "總體的",
+		["damagetaken"] = 37310,
+		["mobtaken"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1400374659,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+	},
+}

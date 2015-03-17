@@ -1,0 +1,43 @@
+VER 3 010000000000000D "d" "INV_Misc_QuestionMark"
+/script SetRaidTargetIcon("target",1)
+END
+VER 3 010000000000000B "mount" "INV_Misc_QuestionMark"
+#showtooltip
+/dismount
+/cast [flyable]西風之龍; 迅捷白色陸行鷹
+END
+VER 3 010000000000000C "ride" "INV_Misc_QuestionMark"
+#showtooltip
+/dismount
+/cast  迅捷白色陸行鷹
+END
+VER 3 010000000000000E "run" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier:alt] 暗月疾奔
+/cast [modifier:alt] 疾跑
+END
+VER 3 010000000000000F "切" "ABILITY_ROGUE_SLICEDICE"
+#showtooltip
+/cast 切割
+/use 13
+END
+VER 3 0100000000000003 "悶" "INV_Misc_QuestionMark"
+#showtooltip
+/cast 悶棍
+/p 我悶 ★%t★喔，6秒內不要打他！
+END
+VER 3 010000000000000A "擲殺" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,exists,harm,nodead]擲殺
+/cast 擲殺
+END
+VER 3 0100000000000005 "斷法" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,exists,harm,nodead]腳踢
+/cast 腳踢
+END
+VER 3 0100000000000004 "致盲" "INV_Misc_QuestionMark"
+#show 致盲
+/cast [target=mouseover,exists,harm,nodead]致盲
+/cast 致盲
+END

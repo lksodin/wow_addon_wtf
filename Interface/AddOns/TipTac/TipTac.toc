@@ -1,0 +1,7 @@
+## Interface: 60100
+## Version: 15.03.04
+## Title: TipTac
+## Author: Aezay (Earthen Ring EU)
+## Notes: Highly Customizable Tooltip Enhancement Addon
+## SavedVariables: TipTac_Config
+core.lua

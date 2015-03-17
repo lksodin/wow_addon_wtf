@@ -1,0 +1,33 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Kaidun - 冰霜之刺"] = "Kaidun - 冰霜之刺",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.冰霜之刺.Kaidun"] = {
+				["XPMax"] = 854100,
+				["played"] = 4253187,
+				["guildRankName"] = "公會會長",
+				["isResting"] = true,
+				["lastUpdate"] = 1426344127,
+				["class"] = "牧師",
+				["race"] = "食人妖",
+				["level"] = 100,
+				["XP"] = 1548,
+				["RestXP"] = 0,
+				["money"] = 174464783,
+				["gender"] = 2,
+				["guildRankIndex"] = 1,
+				["guildName"] = "我的線上單機版",
+				["subZone"] = "翠玉寶庫",
+				["name"] = "Kaidun",
+				["faction"] = "Horde",
+				["englishRace"] = "Troll",
+				["zone"] = "雙月廟",
+				["lastLogoutTimestamp"] = 1426344127,
+				["englishClass"] = "PRIEST",
+			},
+		},
+	},
+}

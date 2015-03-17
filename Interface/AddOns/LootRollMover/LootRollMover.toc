@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title: LootRollMover
+## Author: Xruptor
+## Version: 3.3
+## Notes: A simple mod to move the default Blizzard Group Loot Roll Windows
+## SavedVariables: LRMDB
+
+LootRollMover.lua

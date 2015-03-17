@@ -1,0 +1,18 @@
+
+DataStore_AgendaDB = {
+	["profileKeys"] = {
+		["Kaidun - 冰霜之刺"] = "Kaidun - 冰霜之刺",
+	},
+	["global"] = {
+		["Options"] = {
+			["WeeklyResetHour"] = 6,
+			["WeeklyResetDay"] = 4,
+			["NextWeeklyReset"] = "2015-03-19",
+		},
+		["Characters"] = {
+			["Default.冰霜之刺.Kaidun"] = {
+				["lastUpdate"] = 1426344013,
+			},
+		},
+	},
+}
